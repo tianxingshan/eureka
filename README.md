@@ -8,8 +8,8 @@ main method, or use "mvn spring-boot:run or gradle bootRun or ./gradlew bootRun"
 
 | Path             | Description  |
 |------------------|--------------|
-| /                        | Home page (HTML UI) listing service registrations          |
-| /eureka/apps         | Raw registration metadata |
+| /eureka                       | Home page (HTML UI) listing service registrations          |
+| /eureka/eureka/apps         | Raw registration metadata |
 
 ## Docker Container
 
